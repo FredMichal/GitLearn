@@ -8,7 +8,4 @@ Git has a mutable index called stage.
 
 The second change
 
-Testing
-
-
 Hello World GitHub
